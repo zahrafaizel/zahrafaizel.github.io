@@ -34,4 +34,4 @@
 
 
 # **Resume**
-[title](HS21913938_ Zahra Faizel.pdf)
+HS21913938_ Zahra Faizel.pdf 
