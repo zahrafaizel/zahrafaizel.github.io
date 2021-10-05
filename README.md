@@ -27,4 +27,4 @@
 - Phone no.- +94 725136022
 
 # **Resume**
-- [title](file:///C:/Users/user/Desktop/ASSIGNMENT/HS21913938_%20Zahra%20Faizel.pdf) 
+[title](file:///C:/Users/user/Desktop/ASSIGNMENT/HS21913938_%20Zahra%20Faizel.pdf) 
