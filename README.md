@@ -27,4 +27,4 @@
 - Phone no.- +94 725136022
 
 # **Resume**
-(HS21913938_ Zahra Faizel.pdf)
+[title](HS21913938_ Zahra Faizel.pdf)
