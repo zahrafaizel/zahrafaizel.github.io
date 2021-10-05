@@ -35,4 +35,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-#About me
+#**About me** 
+- My name is Zahra faizel and i'm currently an undergraduate following a BSc(Biotechnology) degree at Srilanka Institute of Information Technology. I'm interested in the field of biochemistry and molecular biology and looking forward to carry out successful research projects in the future
