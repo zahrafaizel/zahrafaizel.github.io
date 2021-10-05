@@ -10,3 +10,21 @@
 
 ## **Srilanka Institute of Information Technology** 
 - Pursuing a BSc degree in biotechnology
+
+# **Skills**
+- Computer skills (MS word, MS powerpoint, MS excel)
+- Leadership skills
+- Problem solving skills
+
+# **Hobbies**
+- Reading
+- Photography
+- Writing
+- Travelling
+
+# **Contact details**
+- Email    - zahra.faizel@gmail.com
+- Phone no.- +94 725136022
+
+# **Resume**
+- [title](file:///C:/Users/user/Desktop/ASSIGNMENT/HS21913938_%20Zahra%20Faizel.pdf) 
