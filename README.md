@@ -34,4 +34,4 @@
 
 
 # **Resume**
-HS21913938_ Zahra Faizel.pdf 
+https://github.com/zahrafaizel/zahrafaizel.github.io/blob/main/HS21913938_%20Zahra%20Faizel.pdf 
